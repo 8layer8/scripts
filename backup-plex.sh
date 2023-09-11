@@ -1,0 +1,1 @@
+rsync -azP "/mnt/pool_bravo/plex/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/" "/mnt/pool_hotel/backups/plex/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/"
